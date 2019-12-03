@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553539610 source:c:\users\wawshra\c99projects\codetoken\lexical_analysis_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
